@@ -15,6 +15,7 @@ function App() {
      <Route path="/*" element={<Defaullayout/>}/>
    </Routes>
    </BrowserRouter>
+  
  )
 }
 
